@@ -931,3 +931,6 @@
 [data-overlay="9"]::before {
 	opacity: 0.9;
 }
+b.immutable-class {
+    color: #c70438;
+}
